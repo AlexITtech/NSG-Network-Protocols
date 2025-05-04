@@ -8,7 +8,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+- 
 
 <h2>Environments and Technologies Used</h2>
 
@@ -32,26 +32,50 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Actions and Observations</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+![image](https://github.com/user-attachments/assets/d16b94bd-6e89-4ed3-ad8a-7b53690da191)
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+
+![68747470733a2f2f696d6775722e636f6d2f58365a4d544a472e706e67](https://github.com/user-attachments/assets/491df512-0fd7-411d-88ad-25ba785c3e49)
+
+
+
+![68747470733a2f2f696d6775722e636f6d2f587a6453506f522e706e67](https://github.com/user-attachments/assets/da57e2a7-37ad-4062-a7bc-7ff5231f772b)
+
+
+
+![68747470733a2f2f696d6775722e636f6d2f304b5433466d622e706e67](https://github.com/user-attachments/assets/acac0600-fe0d-4be3-a44e-353c1eaf0b11)
+
+
+
+![68747470733a2f2f696d6775722e636f6d2f707978734866462e706e67](https://github.com/user-attachments/assets/0de405e0-2d2e-4f80-b9ce-055b9544ff90)
+
+
+![68747470733a2f2f696d6775722e636f6d2f336651585263772e706e67](https://github.com/user-attachments/assets/caabc01d-5b81-455e-a2ab-9e8d9f3b7d9c)
+
+
+![68747470733a2f2f696d6775722e636f6d2f527274436855652e706e67](https://github.com/user-attachments/assets/9f5387f5-1209-4d5b-abc7-90056feb4cdb)
+
+
+
+![68747470733a2f2f696d6775722e636f6d2f7a6d4a7a796e652e706e67](https://github.com/user-attachments/assets/1dff778d-8a21-45d3-a455-94a0fe58f671)
+
+
+
+
+![68747470733a2f2f696d6775722e636f6d2f707034655a644b2e706e67](https://github.com/user-attachments/assets/65777157-dec4-4a90-8af6-40a7276c4837)
+
+
+
+
+![68747470733a2f2f696d6775722e636f6d2f723364483359792e706e67](https://github.com/user-attachments/assets/28fdc30e-fe7d-4818-84c2-a4cfaa5557f6)
+
+
+![68747470733a2f2f696d6775722e636f6d2f716953497273582e706e67](https://github.com/user-attachments/assets/69bdcc2e-3545-4a23-b1c1-9cccd5f19014)
+
+
+
+
+![68747470733a2f2f696d6775722e636f6d2f716953497273582e706e67](https://github.com/user-attachments/assets/d9c0d642-6fc1-4f6f-8066-1904fdffc57d)
+
+
